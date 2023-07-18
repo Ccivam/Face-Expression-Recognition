@@ -1,6 +1,7 @@
 # Face-Expression-Recognition
 
-Name explains it all about the porject.
+Name explains it all about the project
+
 
 # Model
 
